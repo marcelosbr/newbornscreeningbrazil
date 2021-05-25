@@ -1,0 +1,220 @@
+  Dados detalhados das AIH - por local internação - São Paulo
+Quantidade aprovada por Forma organização e Ano processamento
+Período:Dez/2020
+"Forma organização";"2020";"Total"
+"010102 Saúde bucal";28;28
+"010105 Praticas Integrativas/Complementares";538;538
+"020101 Coleta de material por meio de punção/biópsia";2576;2576
+"020102 Outras formas de coleta de material";8786;8786
+"020201 Exames bioquimicos";2608548;2608548
+"020202 Exames hematológicos e hemostasia";796645;796645
+"020203 Exames sorológicos e imunológicos";303885;303885
+"020204 Exames coprológicos";2348;2348
+"020205 Exames de uroanálise";57079;57079
+"020206 Exames hormonais";18050;18050
+"020207 Exames toxicológicos ou de monitorização terapêutica";10581;10581
+"020208 Exames microbiológicos";124855;124855
+"020209 Exames em outros líquidos biológicos";7508;7508
+"020210 Exames de genética";149;149
+"020212 Exames imunohematológicos";65435;65435
+"020301 Exames citopatológicos";1342;1342
+"020302 Exames anatomopatológicos";44029;44029
+"020401 Exames radiológicos da cabeça e pescoço";1022;1022
+"020402 Exames radiológicos da coluna vertebral";1712;1712
+"020403 Exames radiológicos do torax e mediastino";109646;109646
+"020404 Exames radiológicos da cintura escapular e dos membros superiores";11235;11235
+"020405 Exames radiológicos do abdomen e pelve";17745;17745
+"020406 Exames radiológicos da cintura pélvica e dos membros inferiores";19998;19998
+"020501 Ultra-sonografias do sistema circulatório (qualquer região anatômica)";22395;22395
+"020502 Ultra-sonografias dos demais sistemas";21408;21408
+"020601 Tomografia da cabeça, pescoço e coluna vertebral";21549;21549
+"020602 Tomografia do torax e membros superiores";21859;21859
+"020603 Tomografia do abdomen, pelve e membros inferiores";23312;23312
+"020701 RM da cabeça, pescoço e coluna vertebral";2938;2938
+"020702 RM do torax e membros superiores";195;195
+"020703 RM do abdomen, pelve e membros inferiores";1225;1225
+"020801 Aparelho cardiovascular";146;146
+"020802 Aparelho digestivo";4;4
+"020803 Aparelho endócrino";9;9
+"020804 Aparelho geniturinário";14;14
+"020805 Aparelho esquelético";77;77
+"020806 Aparelho nervoso";4;4
+"020807 Aparelho respiratório";30;30
+"020808 Aparelho hematológico";67;67
+"020809 Outros métodos de diagnóstico em medicina nuclear in vivo";9;9
+"020901 Aparelho digestivo";5410;5410
+"020902 Aparelho urinário";524;524
+"020903 Aparelho ginecológico";19;19
+"020904 Aparelho respiratório";705;705
+"021001 Exames radiológicos de vasos sangüíneos e linfáticos";1330;1330
+"021002 Vias biliares";46;46
+"021101 Diagnóstico em angiologia";3;3
+"021102 Diagnóstico em cardiologia";71633;71633
+"021103 Diagnóstico cinético funcional";5847;5847
+"021104 Diagnóstico em ginecologia-obstetrícia";45682;45682
+"021105 Diagnóstico em neurologia";1036;1036
+"021106 Diagnóstico em oftalmologia";9;9
+"021107 Diagnóstico em otorrinolaringologia/fonoaudiologia";16780;16780
+"021108 Diagnóstico em pneumologia";191;191
+"021109 Diagnóstico em urologia";5;5
+"021201 Exames do doador/receptor";58813;58813
+"021401 Teste realizado fora da estrutura de laboratório";331857;331857
+"030101 Consultas médicas/outros profissionais  de nivel superior";1016211;1016211
+"030104 Outros atendimentos realizados por profissionais de níveis superior";1577;1577
+"030105 Atenção domiciliar";2350;2350
+"030106 Consulta/Atendimento ás urgências (em geral)";8871;8871
+"030109 Atendimento/Acompanhamento em saúde do idoso";107;107
+"030110 Atendimentos de enfermagem (em geral)";311064;311064
+"030201 Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas";16331;16331
+"030202 Assistência fisioterapêutica em alterações oncológicas";19938;19938
+"030203 Assistência fisioterapêutica em oftalmologia";1641;1641
+"030204 Assistência fisioterapêutica cardiovasculares e pneumo-funcionais";524066;524066
+"030205 Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)";45579;45579
+"030206 Assistência fisioterapêutica nas alterações em neurologia";161677;161677
+"030207 Assistência fisioterapêutica em queimados";1418;1418
+"030301 Tratamento de doenças infecciosas e parasitárias";23738;23738
+"030302 Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários";1314;1314
+"030303 Tratamento de doenças endocrinas, metabólicas e nutricionais";1890;1890
+"030304 Tratamento de doenças do sistema nervoso central e periférico";6677;6677
+"030305 Tratamento de doenças do aparelho da visão";65;65
+"030306 Tratamento de doenças cardiovasculares";9245;9245
+"030307 Tratamento de doenças do aparelho digestivo";6725;6725
+"030308 Tratamento de doenças da pele e do tecido  subcutâneo";1637;1637
+"030309 Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo";460;460
+"030310 Tratamento durante a gestação, parto e puerpério";3805;3805
+"030311 Tratamento de malformações congênitas, deformidades e anomalias cromossômicas";244;244
+"030312 Tratamentos por medicina nuclear in vivo";1;1
+"030313 Tratamento de pacientes sob cuidados prolongados";83134;83134
+"030314 Tratamento de doenças do ouvido/apófise mastóide e vias aéreas";8510;8510
+"030315 Tratamento das doenças do aparelho geniturinário";3341;3341
+"030316 Tratamento de algumas afecçõess originadas no período neonatal";4711;4711
+"030317 Tratamento dos transtornos mentais e comportamentais";98248;98248
+"030318 Tratamento HIV/Aids";469;469
+"030319 Reabilitação";2226;2226
+"030401 Radioterapia";25;25
+"030408 Quimioterapia - procedimentos especiais";2099;2099
+"030409 Medicina nuclear - terapêutica oncológica";37;37
+"030410 Gerais em oncologia";9612;9612
+"030501 Tratamento dialítico";17424;17424
+"030502 Tratamento em nefrologia em geral";2882;2882
+"030602 Medicina transfusional";50524;50524
+"030701 Dentística";108;108
+"030702 Endodontia";33;33
+"030703 Periodontia clínica";80;80
+"030704 Moldagem/Manutenção";2;2
+"030801 Traumatismos";1737;1737
+"030802 Intoxicações e envenenamentos";789;789
+"030803 Outras consequências de causas externas";115;115
+"030804 Complicações consequentes a procedimentos em saúde";732;732
+"030901 Terapia nutricional";99101;99101
+"030903 Terapias do aparelho geniturinário";8;8
+"030904 Terapias do aparelho cardiovascular";139;139
+"030905 Práticas integrativas e complementares";310;310
+"030906 Acessos venosos";3000;3000
+"031001 Parto e nascimento";14711;14711
+"040101 Pequenas cirurgias";47577;47577
+"040102 Cirurgias de pele, tecido subcutâneo e mucosa";3055;3055
+"040201 Cirurgia de tireóide e paratireóide";159;159
+"040202 Cirurgia da suprarrenal";6;6
+"040301 Trauma e anomalias do desenvolvimento";1606;1606
+"040302 Coluna e nervos periféricos";512;512
+"040303 Tumores do sistema nervoso";305;305
+"040304 Neurocirurgias vasculares";113;113
+"040305 Tratamento neurocirúrgico da dor funcional";69;69
+"040306 Investigação e cirurgia da epilepsia";3;3
+"040307 Tratamento neuro-endovascular";53;53
+"040308 Neurocirurgia funcional estereotáxica";6;6
+"040401 Cirurgia das vias aéreas superiores e do pescoço";1971;1971
+"040402 Cirurgia da face e do sistema estomatognático";767;767
+"040403 Anomalia Crânio e bucomaxilo facial";183;183
+"040501 Palpebras e vias lacrimais";182;182
+"040502 Músculos oculomotores";76;76
+"040503 Corpo vítreo, retina, coróide e esclera";637;637
+"040504 Cavidade orbitária e globo ocular";112;112
+"040505 Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino";1795;1795
+"040601 Cirurgia cardiovascular";1746;1746
+"040602 Cirurgia vascular";2512;2512
+"040603 Cardiologia intervencionista";2047;2047
+"040604 Cirurgia endovascular";423;423
+"040605 Eletrofisiologia";118;118
+"040701 Esôfago, estômago e duodeno";614;614
+"040702 Intestinos , reto e anus";5198;5198
+"040703 Pancreas, baco, figado e vias biliares";3446;3446
+"040704 Parede e cavidade abdominal";5839;5839
+"040801 Cintura escapular";616;616
+"040802 Membros superiores";4213;4213
+"040803 Coluna vertebral e caixa torácica";432;432
+"040804 Cintura pélvica";672;672
+"040805 Membros inferiores";7213;7213
+"040806 Gerais";4989;4989
+"040901 Rim, ureter e bexiga";2770;2770
+"040902 Uretra";264;264
+"040903 Próstata e vesicula seminal";393;393
+"040904 Bolsa escrotal, testículos e cordão espermático";1525;1525
+"040905 Pênis";1287;1287
+"040906 Útero e anexos";4089;4089
+"040907 Vagina, vulva e períneo";581;581
+"041001 Mama";802;802
+"041101 Parto";12225;12225
+"041102 Outras cirurgias relacionadas com o estado gestacional";2403;2403
+"041201 Traqueia e brônquios";2095;2095
+"041202 Mediastino";73;73
+"041203 Pleura";425;425
+"041204 Parede torácica";886;886
+"041205 Pulmão";892;892
+"041301 Tratamento de queimados";420;420
+"041303 Reparadora para lipodistrofia";1;1
+"041304 Outras cirurgias plásticas/reparadoras";704;704
+"041401 Buco-maxilo-facial";31;31
+"041402 Cirurgia oral";206;206
+"041504 Procedimentos cirúrgicos gerais";2298;2298
+"041601 Urologia";697;697
+"041602 Sistema linfático";872;872
+"041603 Cabeça e pescoço";318;318
+"041604 Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais";335;335
+"041605 Colo-proctologia";397;397
+"041606 Ginecologia";316;316
+"041608 Pele e cirurgia plástica";576;576
+"041609 Ossos e partes moles";123;123
+"041611 Cirurgia torácica";73;73
+"041612 Mastologia";797;797
+"041801 Acessos para dialise";1119;1119
+"050103 Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional";34;34
+"050106 Exames gráficos ou por imagem para diagnóstico de morte encefálica";174;174
+"050107 Outros exames complementares para doação de orgãos, tecidos e células";88;88
+"050108 Exames complementares para pacientes transplantados";2505;2505
+"050201 Avaliação clínica de morte encefálica";133;133
+"050302 Cirurgias para transplante - doador vivo";22;22
+"050303 Manutenção e retirada de orgãos e tecidos para transplante";95;95
+"050304 Açõess complementares destinadas a doação de orgãos, tecidos e células.";559;559
+"050401 Processamento de córnea/esclera";15;15
+"050402 Processamento de tecido ósteo-fascio-condro-ligamentoso humano";3;3
+"050403 Processamento de válvula/tubo valvado cardíaco humano";1;1
+"050501 Transplante de tecidos e células";165;165
+"050502 Transplante de orgãos";199;199
+"050602 Intercorrência pós transplante";7795;7795
+"060301 Antiinflamatórios";57;57
+"060302 Imunossupressores";1504;1504
+"060303 Imunoterápicos";3510;3510
+"060304 Reguladores de atividade hormonal - inibidores da prolactina";167;167
+"060305 Antitrombóticos";10403;10403
+"060306 Tensiolítico alveolar";361;361
+"060307 Hemoderivados";12526;12526
+"060308 Medicamentos para transplante";29445;29445
+"070201 OPM em neurocirurgia";1005;1005
+"070203 OPM em ortopedia";16471;16471
+"070204 OPM em assistência cardiovascular";16626;16626
+"070205 OPM comuns";17915;17915
+"070206 OPM em urologia";1346;1346
+"070207 OPM em cirurgias oftálmicas";14;14
+"070208 OPM em cirurgia plástica/reparadora";195;195
+"070209 OPM em cirurgia de otorrinolaringologia";53;53
+"070212 OPM para transplantes";344;344
+"080101 Incentivos";8311;8311
+"080201 Diárias";498709;498709
+"Total";8209617;8209617
+ Fonte: Ministério da Saúde - Sistema de Informações Hospitalares do SUS (SIH/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a atualização.
+ 
