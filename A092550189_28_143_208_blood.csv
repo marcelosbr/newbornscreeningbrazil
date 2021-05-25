@@ -1,0 +1,43 @@
+ Produção Ambulatorial do SUS - Brasil - por local de atendimento
+Qtd.aprovada por Unidade da Federação
+Procedimento: 0201020050 COLETA DE SANGUE PARA TRIAGEM NEONATAL
+Período:2019
+"Unidade da Federação";"Qtd.aprovada"
+"11 Rondônia";963
+"12 Acre";2431
+"13 Amazonas";237115
+"15 Pará";23068
+"16 Amapá";5578
+"17 Tocantins";702
+"21 Maranhão";71537
+"22 Piauí";28636
+"23 Ceará";36374
+"24 Rio Grande do Norte";10574
+"25 Paraíba";17004
+"26 Pernambuco";769285
+"27 Alagoas";5429
+"28 Sergipe";7952
+"29 Bahia";127296
+"31 Minas Gerais";119887
+"32 Espírito Santo";7940
+"33 Rio de Janeiro";178456
+"35 São Paulo";112152
+"41 Paraná";6658
+"42 Santa Catarina";26307
+"43 Rio Grande do Sul";23737
+"50 Mato Grosso do Sul";7754
+"51 Mato Grosso";16318
+"52 Goiás";26221
+"53 Distrito Federal";10123
+"Total";1879497
+ Fonte: Ministério da Saúde - Sistema de Informações Ambulatoriais do SUS (SIA/SUS)
+ Notas:
+ 
+ Dados referentes aos últimos seis meses, sujeitos a  atualização.
+ A partir do processamento de junho de 2012, houve mudança na classificação da natureza e esfera dos estabelecimentos. Com isso, temos que:
+      
+      Até maio de 2012 estas informações estão disponíveis como "Natureza" e "Esfera Administrativa".
+      De junho de 2012 a outubro de 2015, estão disponíveis tanto como "Natureza" e "Esfera Administrativa", como "Natureza Jurídica" e "Esfera Jurídica".
+      A partir de novembro de 2015, estão disponíveis como "Natureza Jurídica" e "Esfera Jurídica".
+      
+ 
